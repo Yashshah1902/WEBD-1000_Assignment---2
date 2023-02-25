@@ -107,3 +107,9 @@ aside {
    width: 75%;
    padding-bottom: 30px;
 }
+
+/* odd-numbered aside element use justify-self grid */
+
+aside:nth-of-type(odd) {
+   justify-self: end;
+}
