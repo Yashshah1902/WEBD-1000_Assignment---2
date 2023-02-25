@@ -40,8 +40,12 @@ img {
 
 /* CSS Grid Styles */
 
+/* body element as a grid with four columns of lenght 1fr but insted of fr using 25% */
 
-
+body{
+   display: grid;
+   grid-template-columns: 25% 25% 25% 25%;
+}
 
 
 
