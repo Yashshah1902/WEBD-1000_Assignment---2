@@ -60,6 +60,11 @@ nav.horizontal , footer {
    grid-column: span 4;
 }
 
+/* Styles for aside element spans to two columns*/
+
+aside {
+   grid-column: span 2;
+}
 
 /* Horizontal Navigation List Styles */
 
