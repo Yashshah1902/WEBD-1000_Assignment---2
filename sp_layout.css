@@ -40,7 +40,7 @@ img {
 
 /* CSS Grid Styles */
 
-/* body element as a grid with four columns of lenght 1fr but insted of fr using 25% */
+/* body element as a grid with four columns of lenght 1fr but instead of fr using 25% */
 
 body{
    display: grid;
@@ -60,7 +60,7 @@ nav.horizontal , footer {
    grid-column: span 4;
 }
 
-/* Styles for aside element spans to two columns*/
+/* Styles for aside element spans to 2 columns*/
 
 aside {
    grid-column: span 2;
@@ -68,7 +68,7 @@ aside {
 
 /* Horizontal Navigation List Styles */
 
-/* Style for li element which displays as block, width = 12.5%, floatedd on margin left */
+/* Style for li element which displays as block, width = 12.5%, float on margin left */
 
 nav.horizontal li {
    display: block;
