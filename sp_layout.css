@@ -54,6 +54,12 @@ body{
    grid-column: span 3;
 }
 
+/* style rule for Horizontal navigation list and the footer element span 4 columns */
+
+nav.horizontal , footer {
+   grid-column: span 4;
+}
+
 
 /* Horizontal Navigation List Styles */
 
