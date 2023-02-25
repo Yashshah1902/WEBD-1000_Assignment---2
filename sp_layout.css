@@ -20,8 +20,14 @@ html {
    height: 100%;
 }
 
+/* body element adjustment where width = 95%, min width = 640px, max width = 960px*/
+/* body element adjustment which is centers horizontally & minimum height of the browser window = 100% */
 
-
+body {
+   width: 95%;
+   min-width: 640px;
+   max-width: 960px;
+}
 
 /* CSS Grid Styles */
 
