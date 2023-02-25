@@ -47,6 +47,12 @@ body{
    grid-template-columns: 25% 25% 25% 25%;
 }
 
+/* Style rule for img id = "logo" width = 100%, spans 3 columns */ 
+
+#logo {
+   width: 100%;
+   grid-column: span 3;
+}
 
 
 /* Horizontal Navigation List Styles */
