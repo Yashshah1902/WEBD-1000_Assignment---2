@@ -68,6 +68,13 @@ aside {
 
 /* Horizontal Navigation List Styles */
 
+/* Style for li element which displays as block, width = 12.5%, floatedd on margin left */
+
+nav.horizontal li {
+   display: block;
+   width: 12.5%;
+   float: left;
+}
 
 
 /* Section Styles */
