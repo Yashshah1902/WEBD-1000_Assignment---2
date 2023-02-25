@@ -120,3 +120,11 @@ aside img {
    float: left;
    width: 20%;
 }
+
+/* aside paragraph element style float left, width = 75%, margin-left = 5% */
+
+aside p {
+   width: 75%;
+   margin-left: 5%;
+   float: left;
+}
