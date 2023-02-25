@@ -99,8 +99,11 @@ section p {
    margin-right: auto;
 }
 
-
-
-
 /* Customer Comment Styles */
 
+/* Style rule for aside element width = 75%, bottom padding 30px */
+
+aside {
+   width: 75%;
+   padding-bottom: 30px;
+}
