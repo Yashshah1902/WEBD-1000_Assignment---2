@@ -79,6 +79,16 @@ nav.horizontal li {
 
 /* Section Styles */
 
+/* Style rule for inline images within section tab, width of image = 50%, set margin for top/bottom = 0 and left/right = auto */
+
+section img {
+   width: 50%;
+   margin-top: 0;
+   margin-bottom: 0;
+   margin-left: auto;
+   margin-right: auto;
+}
+
 
 
 
