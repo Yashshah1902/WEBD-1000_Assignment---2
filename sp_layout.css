@@ -15,6 +15,11 @@
 
 /* Window and Body Styles */
 
+/* html element height set to 100% */
+html {
+   height: 100%;
+}
+
 
 
 
