@@ -113,3 +113,10 @@ aside {
 aside:nth-of-type(odd) {
    justify-self: end;
 }
+
+/* aside element image float left, width = 20% */
+
+aside img {
+   float: left;
+   width: 20%;
+}
