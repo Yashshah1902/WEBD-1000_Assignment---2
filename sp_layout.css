@@ -32,6 +32,12 @@ body {
    min-height: 100%;
 }
 
+/* Set all inline images as blocks */
+
+img {
+   display: block;
+}
+
 /* CSS Grid Styles */
 
 
