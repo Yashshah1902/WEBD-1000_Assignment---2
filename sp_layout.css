@@ -89,6 +89,16 @@ section img {
    margin-right: auto;
 }
 
+/* Style for section paragraphs where width = 70%, top/bottom margin = 0 & right/left = auto */
+
+section p {
+   width: 70%;
+   margin-top: 0;
+   margin-bottom: 0;
+   margin-left: auto;
+   margin-right: auto;
+}
+
 
 
 
